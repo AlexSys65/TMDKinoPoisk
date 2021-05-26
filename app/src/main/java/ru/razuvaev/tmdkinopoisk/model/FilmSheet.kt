@@ -1,6 +1,6 @@
 package ru.razuvaev.tmdkinopoisk.model
 
-data class FilmNote(
+data class FilmSheet(
     private val mId: String,
     private val mTitleFilm: String,
     private val mRatingFilm: String,

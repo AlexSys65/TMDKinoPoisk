@@ -5,6 +5,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import ru.razuvaev.tmdkinopoisk.ui.main.MainFragment
+import ru.razuvaev.tmdkinopoisk.ui.main.SettingFragment
 
 class MainActivity : AppCompatActivity() {
 
